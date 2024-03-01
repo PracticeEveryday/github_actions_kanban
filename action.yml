@@ -1,0 +1,5 @@
+name: "Github Kanban Workflows"
+description: "Utilizing GitHub Kanban like a Jira workflow"
+runs:
+  using: "node20"
+  main: "dist/src/index.js"
